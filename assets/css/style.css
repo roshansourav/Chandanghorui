@@ -630,7 +630,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.7);
+  background: rgb(0, 0, 0);
   position: absolute;
   left: 30px;
   right: 30px;
@@ -687,14 +687,14 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #45505b;
+  color: #f2f9e3;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #45505b;
-  font-size: 14px;
-  text-transform: uppercase;
+  color: #fff7f7;
+  font-size: 18px;
+  text-transform: none;
   padding: 0;
   margin: 0;
 }
